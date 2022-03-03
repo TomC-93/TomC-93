@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas Carlin. I'm based in New Zealand, curerntly working at Scion (Christchurch).
+- 👋 Hi, I’m Thomas Carlin. I'm based in New Zealand, currently working at Scion (Christchurch).
 - 👀 I’m interested in developing models for species distributions, niche shifts, and population dynamics.
 - 🌱 I’m currently learning Python to help analyse large datasets quickly.
 - 💞️ I’m looking to collaborate on global ecological problems, particularly those related to conservation or invasive species.
